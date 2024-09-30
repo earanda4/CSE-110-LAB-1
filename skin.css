@@ -1,17 +1,17 @@
 
-.section1{
+#section1{
     background-color:rgb(245,240,230) 
    
 }
 div { display: inline !important}
-.section2{
+#section2{
     background-image: url(https://www.ucsd.edu/_resources/img/bg-orbs-1.jpg);
     color: white;
 }
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+
+#navbar {
+    position:sticky;
+    top:0;
     overflow: hidden;
     background-color: #ffffff;
 }
