@@ -3,12 +3,12 @@ div{
     display: inline;
 }
 
-#section1{
+div.section1{
     background-color:rgb(245,240,230) 
    
 }
 
-#section2{
+div.section2{
     background-image: url(https://www.ucsd.edu/_resources/img/bg-orbs-1.jpg);
     color: white;
 }
