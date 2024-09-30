@@ -14,7 +14,8 @@ div.section2{
     top:0;
     overflow: hidden;
     background-color: #182b49;
-    
+    max-width: 400px;
+    font-size: 28px;
 }
 #navbar ul:hover{
     color: white;
