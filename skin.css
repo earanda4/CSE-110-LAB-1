@@ -17,11 +17,12 @@ div.section2{
     max-width: 400px;
     font-size: 28px;
 }
-#navbar ul:hover{
+#navbar:hover ul{
     color: white;
 
 }
 
 div.section3{
     background-color: rgb(245,240,230) ;
+    font-size: 28px;
 }
