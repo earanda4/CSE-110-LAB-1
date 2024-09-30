@@ -1,4 +1,4 @@
-div { display: inline}
+div { display: inline !important}
 .section1{
     background-color:rgb(245,240,230) 
    
