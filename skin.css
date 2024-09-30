@@ -13,5 +13,10 @@ div { display: inline !important}
     position:sticky;
     top:0;
     overflow: hidden;
-    background-color: #ffffff;
+    background-color: #182b49;
+    
+}
+#navbar a:hover{
+    background-color: white;
+
 }
