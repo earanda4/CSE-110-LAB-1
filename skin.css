@@ -16,7 +16,7 @@ div.section2{
     background-color: #182b49;
     
 }
-#navbar:hover{
+#navbar ul:hover{
     font-display: white;
 
 }
