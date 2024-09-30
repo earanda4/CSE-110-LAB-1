@@ -28,5 +28,13 @@ div.section3{
     background-color: rgb(245,240,230) ;
     font-size: 28px;
     scroll-margin-top: 69;
+    display:grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap:25px;
+    grid-auto-rows: minmax(100px,auto);
+}
 
+div.section3.grid{
+    grid-column: 1;
+    grid-row: 2 / 5;
 }
