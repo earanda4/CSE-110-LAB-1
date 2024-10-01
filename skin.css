@@ -1,3 +1,6 @@
+
+
+
 div.section1{
     background-color:rgb(245,240,230);
     scroll-margin-top: 69;
@@ -16,12 +19,31 @@ div.section2{
     overflow: hidden;
     background-color: #182b49;
     max-width: 400px;
+    z-index: 1000;
+    padding: 10px 0;
+}
+#navbar ul{
+    color: white;
+    list-style: none;
+}
+
+#navbar ul li{
+    margin: 0 15px;
+}
+
+#navbar ul li a{
+    text-decoration: none;
+    color:white;
     font-size: 28px;
 }
-#navbar:hover ul{
-    color: white;
 
+#navbar ul li a:hover{
+    background-color: #182b49;
+    color: #ffcc00;
+    padding:5px;
 }
+
+
 
 div.section3{
     background-color: rgb(245,240,230) ;
