@@ -3,14 +3,12 @@
 
 div.section1{
     background-color:rgb(245,240,230);
-    scroll-margin-top: 69;
 }
 
 div.section2{
     background-image: url(https://www.ucsd.edu/_resources/img/bg-orbs-1.jpg);
     color: white;
-    scroll-margin-top: 69;
-
+    background-size: cover;
 }
 
 #navbar {
@@ -19,7 +17,6 @@ div.section2{
     overflow: hidden;
     background-color: #182b49;
     max-width: 400px;
-    width: 100%;
     z-index: 1000;
     padding: 10px 0;
 }
@@ -44,7 +41,7 @@ div.section2{
     padding:5px;
 }
 
-div.section {
+div.sections {
     display: inline-block;
     width: 100%;
     padding: 50px;
@@ -54,15 +51,21 @@ div.section {
 
 div.section3{
     background-color: rgb(245,240,230) ;
-    font-size: 28px;
-    scroll-margin-top: 69;
-    display:grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap:25px;
-    grid-auto-rows: minmax(100px,auto);
 }
 
-div.section3.grid{
-    grid-column: 1;
-    grid-row: 2 / 5;
+.grid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 25px;
+    max-width: 1000px;
+    padding-top: 25px;
 }
+
+.grid-item {
+    background-color: #182b49;
+    color: white;
+    max-height: 500px;
+    padding: 20px;
+    font-size: 28px;
+}
+
