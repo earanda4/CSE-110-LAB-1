@@ -37,6 +37,9 @@ div.section2{
     background-color: #182b49;
     color: white;
 }
+#navbar ul li:hover{
+    background-color: #182b49;
+}
 
 div.sections {
     display: inline-block;
