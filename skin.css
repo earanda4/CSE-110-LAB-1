@@ -57,7 +57,7 @@ div.section3{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 25px;
-    max-width: 1000px;
+    width: 100%;
     padding-top: 25px;
 }
 
