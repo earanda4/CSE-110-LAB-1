@@ -44,7 +44,6 @@ div.section2{
 div.sections {
     display: inline-block;
     width: 100%;
-    padding: 50px;
     scroll-margin-top: 69%;
     font-size: 28px;
 }
