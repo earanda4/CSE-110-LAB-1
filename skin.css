@@ -18,7 +18,7 @@ div.section2{
     padding: 10px 0;
 }
 #navbar ul{
-    color: white;
+    color: #182b49;
     list-style: none;
 }
 
@@ -29,13 +29,13 @@ div.section2{
 
 #navbar ul li a{
     text-decoration: none;
-    color:white;
+    color:#182b49;
     font-size: 28px;
 }
 
 #navbar ul li a:hover{
     background-color: #182b49;
-    color: #ffcc00;
+    color: white;
 }
 
 div.sections {
