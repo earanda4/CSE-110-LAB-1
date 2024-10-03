@@ -23,7 +23,8 @@ div.section2{
 }
 
 #navbar ul li{
-    margin: 0 15px;
+    margin-right: 10px;
+    display: inline-block;
 }
 
 #navbar ul li a{
