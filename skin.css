@@ -61,6 +61,10 @@ div.section3{
     padding-top: 25px;
 }
 
+.images{
+    max-width: 100%;
+}
+
 .grid-item {
     background-color: #182b49;
     color: white;
