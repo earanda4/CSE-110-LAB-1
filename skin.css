@@ -20,6 +20,7 @@ div.section2{
 #navbar ul{
     color: white;
     list-style: none;
+    background-color: white;
 }
 
 #navbar ul li{
