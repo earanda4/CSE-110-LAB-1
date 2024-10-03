@@ -12,7 +12,7 @@ div.section2{
     position:sticky;
     top:0;
     overflow: hidden;
-    background-color: #182b49;
+    background-color: white;
     max-width: 400px;
     z-index: 1000;
     padding: 10px 0;
@@ -20,7 +20,6 @@ div.section2{
 #navbar ul{
     color: white;
     list-style: none;
-    background-color: white;
 }
 
 #navbar ul li{
