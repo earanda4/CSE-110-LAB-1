@@ -45,6 +45,7 @@ div.sections {
     display: inline-block;
     width: 100%;
     scroll-margin-top: 69%;
+    padding: 45px;
     font-size: 28px;
 }
 
