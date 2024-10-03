@@ -1,3 +1,12 @@
+div.sections {
+    display: inline-block;
+    width: 100%;
+    scroll-margin-top: 69%;
+    padding: 45px;
+    font-size: 28px;
+}
+
+
 div.section1{
     background-color:rgb(245,240,230);
 }
@@ -41,13 +50,6 @@ div.section2{
     background-color: #182b49;
 }
 
-div.sections {
-    display: inline-block;
-    width: 100%;
-    scroll-margin-top: 69%;
-    padding: 45px;
-    font-size: 28px;
-}
 
 div.section3{
     background-color: rgb(245,240,230) ;
