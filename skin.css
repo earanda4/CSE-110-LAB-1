@@ -25,7 +25,7 @@ div.section2{
 #navbar ul li{
     margin-right: 10px;
     display: inline-block;
-    width: 100px;
+    width: 100%;
 }
 
 #navbar ul li a{
