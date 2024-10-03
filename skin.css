@@ -76,3 +76,25 @@ div.section3{
     overflow-y: scroll;
 }
 
+@media screen and (max-width: 800px) {
+    #navbar ul {
+        display: none;
+    }
+
+    #toplogo {
+        max-width: 75%;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+    .grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
