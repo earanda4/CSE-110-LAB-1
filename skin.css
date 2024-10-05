@@ -78,7 +78,7 @@ div.section3{
     overflow-y: scroll;
 }
 
-@media screen and (max-width: 200px) {
+@media screen and (max-width: 800px) {
     #navbar ul {
         display: none;
     }
