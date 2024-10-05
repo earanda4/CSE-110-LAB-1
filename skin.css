@@ -96,7 +96,8 @@ div.section3{
     }
 
     .grid {
-        grid-template-columns: repeat(2, 1fr);    
+        grid-template-columns: 200px 200px;
+        grid-row:auto auto;  
     }
 }
 
