@@ -57,10 +57,9 @@ div.section3{
 
 .grid{
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 25px;
-    width: 100%;
-    padding-top: 25px;
+    grid-template-columns: repeat(2, 1fr);  
+    grid-template-rows: 2fr;
+    grid-row-gap: 1rem;
 }
 
 .images{
