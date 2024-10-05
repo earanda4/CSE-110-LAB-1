@@ -97,7 +97,13 @@ div.section3{
 
     .grid {
         grid-template-columns: 200px 200px;
-        grid-row:auto auto;  
+        grid-row:auto auto;
+        grid-column-gap:20px;
+        grid-row-gap: 20px;  
+    }
+
+    .grid-item{
+        display: flex;
     }
 }
 
